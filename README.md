@@ -1,1 +1,1 @@
-goit js homework 11
+Application for searching pictures on demand
