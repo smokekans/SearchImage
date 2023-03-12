@@ -1,21 +1,21 @@
 {
-  "name": "SearchImage",
+  "name": "SearchImageJS",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://smokekans.github.io/SearchImage",
+  "homepage": "https://smokekans.github.io/SearchImageJS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /SearchImage/"
+    "build": "parcel build src/*.html --public-url /SearchImageJS/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smokekans/SearchImage.git"
+    "url": "git+https://github.com/smokekans/SearchImageJS.git"
   },
   "keywords": [],
   "author": "Dmytro Savchenko <smokekans@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smokekans/SearchImage/issues"
+    "url": "https://github.com/smokekans/SearchImageJS/issues"
   },
   "dependencies": {
     "axios": "^1.2.6",
